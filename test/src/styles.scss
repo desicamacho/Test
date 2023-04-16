@@ -2,3 +2,15 @@
 @import "primeicons/primeicons.css";
 @import "primeng/resources/themes/lara-light-blue/theme.css";
 @import "primeng/resources/primeng.css";
+
+.configButton{
+    position: relative;
+    left: 90%;
+}
+#addScrew{
+    max-width: 200px;
+    margin: 0 auto;
+}
+#price, #brand, #format, #closeModal, #addNewScrew {
+    margin-top: 15px;
+  }

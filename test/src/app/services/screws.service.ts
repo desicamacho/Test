@@ -13,13 +13,4 @@ export class ScrewsService {
     return this.http.get<any>('/assets/screws.json')
   }
 
-  //Función que añade tornillos
-  addScrews(){
-
-  }
-
-  //Función que elimina tornillos
-  deleteScrews(){
-
-  }
 }

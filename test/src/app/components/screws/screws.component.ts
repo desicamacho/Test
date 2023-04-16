@@ -11,14 +11,16 @@ export class ScrewsComponent implements OnInit{
 
   //Listas
   formats: any[] = [{ id: 0, worth: 'black' }, { id: 2, worth: 'orange' }, { id: 3, worth: 'azure' }];
-  screws = [];
+  screws: any[] = [];
 
   //Objeto
-  name: string = '';
-  format: any;
-  price: any;
-  brand: string = '';
+   screw = {
+    name: undefined,
+    price: undefined,
+    brand: undefined,
+    format: undefined
 
+  }
   //Cargar pantalla
   loading: boolean = false;
 
@@ -42,9 +44,14 @@ export class ScrewsComponent implements OnInit{
 
   //Añadir el nuevo tornillo
   addScrew(): void{
-    this.screwService.addScrews();
+    this.screws.unshift({name: this.screw.name, price: this.screw.price, brand: this.screw.brand, format: this.screw.format})
+    this.modalService.close();
   }
 
+  //Eliminar un tornillo
+  deleteScrew(index: number): void{
+    this.screws.splice(index,1);
+  }
 
   ngOnInit(): void {
     this.getScrews()
