@@ -1,4 +1,4 @@
-<div id="tabla-resultado">
+<div id="tabla-resultado" *ngIf="loading">
     <div>
       <p-table #dt [value]="screws" [scrollable]="true" scrollHeight="450px" [paginator]="true" [rows]="5"
       [showCurrentPageReport]="true"
@@ -32,13 +32,18 @@
         </ng-template>
       </p-table>
     </div>
-</div>
-<div id="footer" class="col-2">
-  <div class="boton boton-verde mr-2" id="boton-nuevo">
-    <p-button label="Anadir producto" class="p-button-success" (click)="modalService.open('modal-1')"></p-button>
-  </div>
+    <div id="footer" class="col-2">
+      <div class="boton boton-verde mr-2" id="boton-nuevo">
+        <p-button label="Anadir producto" class="p-button-success" (click)="modalService.open('modal-1')"></p-button>
+      </div>
+    </div>
 </div>
 
+<div  *ngIf="!loading">
+  <div>
+    <p>Cargando...</p>
+  </div>
+</div>
     
     
     <jw-modal id="modal-1">

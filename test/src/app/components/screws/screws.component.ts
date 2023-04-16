@@ -9,6 +9,7 @@ import { ModalService } from 'src/app/services/modal.service';
 })
 export class ScrewsComponent implements OnInit{
 
+  indexSum: number = 101;
   //Listas
   formats: any[] = [{ id: 0, worth: 'black' }, { id: 2, worth: 'orange' }, { id: 3, worth: 'azure' }];
   screws: any[] = [];
@@ -21,8 +22,10 @@ export class ScrewsComponent implements OnInit{
     format: undefined
 
   }
+
   //Cargar pantalla
   loading: boolean = false;
+
 
   constructor(
     public screwService: ScrewsService, 
@@ -36,7 +39,7 @@ export class ScrewsComponent implements OnInit{
       this.screws = res;
 
       setTimeout(() => {
-        this.loading = false
+        this.loading = true
       }, 2000)
     }
   })
@@ -44,13 +47,15 @@ export class ScrewsComponent implements OnInit{
 
   //Añadir el nuevo tornillo
   addScrew(): void{
-    this.screws.unshift({name: this.screw.name, price: this.screw.price, brand: this.screw.brand, format: this.screw.format})
+    this.screws.unshift({index: this.indexSum, name: this.screw.name, price: this.screw.price, brand: this.screw.brand, format: this.screw.format})
+    this.indexSum++;
     this.modalService.close();
   }
 
   //Eliminar un tornillo
   deleteScrew(index: number): void{
-    this.screws.splice(index,1);
+    let ind = this.screws.findIndex(screw => screw.index === index)
+    this.screws.splice(ind,1);
   }
 
   ngOnInit(): void {
