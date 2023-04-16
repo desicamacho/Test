@@ -2,11 +2,13 @@
 <!-- Header -->
 <header>
   <img src="/assets/logo.png" ng-fallimg>
+  <p-button label="Iniciar sesión" styleClass="p-button-secondary p-button-sm" [routerLink]="'/login'" *ngIf="showLogin"></p-button>
+  <div  *ngIf="!showLogin">
+    {{userName}}
+  </div>
 </header>
 
 <body>
-
+<router-outlet></router-outlet>
 </body>
-
-<app-home></app-home>
 </div>

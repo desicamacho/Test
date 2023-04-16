@@ -1,0 +1,96 @@
+<div id="tabla-resultado">
+    <div style="width: 50rem;">
+      <p-table [value]="screws" [scrollable]="true" scrollHeight="450px" [paginator]="true" [rows]="5"
+      [showCurrentPageReport]="true"
+      [rowsPerPageOptions]="[5,10,20]">
+        <ng-template pTemplate="caption">
+          <div class="flex">
+            <button type="button" pButton pRipple icon="pi pi-cog"
+              class=" ml-auto p-button-rounded p-button-text"></button>
+          </div>
+        </ng-template>
+        <ng-template pTemplate="header">
+          <tr>
+            <th>Nombre</th>
+            <th>Precio</th>
+            <th>Formato</th>
+            <th>Marca</th>
+            <th>Acciones</th>
+          </tr>
+        </ng-template>
+        <ng-template pTemplate="body" let-screw>
+          <tr>
+            <td>{{screw.name}}</td>
+            <td>{{screw.price}} €</td>
+            <td>{{screw.format}}</td>
+            <td>{{screw.brand}}</td>
+            <td>
+              <button pButton pRipple icon="pi pi-trash" class="p-button-rounded p-button-text p-button-danger"
+                (click)="screw.deleteScrews(screw)"></button>
+            </td>
+          </tr>
+        </ng-template>
+      </p-table>
+    </div>
+  </div>
+  
+  
+  <div id="footer">
+    <div class="boton boton-verde mr-2" id="boton-nuevo">
+      <p-button label="Anadir producto" class="p-button-success" (click)="modalService.open('modal-1')"></p-button>
+    </div>
+  </div>
+
+    
+    
+    <jw-modal id="modal-1">
+      <div id="nuevo-producto">
+       <form>
+          <div class="grid p-fluid">
+              <div class="col-12 field">
+                  <label for="name" class="block">Nombre</label>
+                  <input id="name" type="text" pInputText [(ngModel)]="name" formControlName="name"
+                      />
+              </div>
+          </div>
+          <div class="grid p-fluid">
+              <div class="col-6 field" id="price">
+                  <label for="price" class="block">Precio</label>
+                  <p-inputNumber [showButtons]="true" buttonLayout="horizontal" inputId="horizontal"
+                      spinnerMode="horizontal" [step]="0.1" incrementButtonIcon="pi pi-plus"
+                      decrementButtonIcon="pi pi-minus" mode="decimal" [minFractionDigits]="1" [(ngModel)]="price"
+                      
+                      decrementButtonClass="p-button-secondary p-button-outlined"
+                      incrementButtonClass="p-button-secondary p-button-outlined" formControlName="price">
+                  </p-inputNumber>
+              </div>
+              <div class="col-6 field">
+                  <label for="format" class="block">Formato</label>
+                  <p-dropdown [options]="formats" placeholder="Seleccione un valor" optionLabel="worth"
+                      optionValue="worth" [(ngModel)]="format"
+                     formControlName="format"></p-dropdown>
+              </div>
+          </div>
+          <div class="grid p-fluid">
+              <div class="col-12 field">
+                  <label for="brand" class="block">Marca</label>
+                  <input id="brand" type="text" pInputText [(ngModel)]="brand"
+                      formControlName="brand" />
+              </div>
+          </div>
+  
+          <div class="grid p-fluid">
+              <div class="col-2">
+                  <div class="boton boton-gris">
+                      <p-button label="Cancelar"  (click)="modalService.close();"></p-button>
+                  </div>
+              </div>
+              <div class="col-2 col-offset-8">
+                  <div class="boton boton-verde">
+                      <p-button label="Guardar" (click)="addScrew()"></p-button>
+                  </div>
+              </div>
+          </div>
+      </form>
+  </div>
+    </jw-modal>

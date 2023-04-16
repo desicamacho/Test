@@ -1,702 +1,702 @@
 [
     {
         "index": 0,
-        "nombre": "Adeline",
-        "precio": 3.8,
-        "formato": "black",
-        "marca": "laborum"
+        "name": "Adeline",
+        "price": 3.8,
+        "format": "black",
+        "brand": "laborum"
     },
     {
         "index": 1,
-        "nombre": "Carrillo",
-        "precio": 3.67,
-        "formato": "black",
-        "marca": "deserunt"
+        "name": "Carrillo",
+        "price": 3.67,
+        "format": "black",
+        "brand": "deserunt"
     },
     {
         "index": 2,
-        "nombre": "Olson",
-        "precio": 3.19,
-        "formato": "azure",
-        "marca": "ex"
+        "name": "Olson",
+        "price": 3.19,
+        "format": "azure",
+        "brand": "ex"
     },
     {
         "index": 3,
-        "nombre": "Pugh",
-        "precio": 3.81,
-        "formato": "azure",
-        "marca": "labore"
+        "name": "Pugh",
+        "price": 3.81,
+        "format": "azure",
+        "brand": "labore"
     },
     {
         "index": 4,
-        "nombre": "Carpenter",
-        "precio": 3.08,
-        "formato": "black",
-        "marca": "mollit"
+        "name": "Carpenter",
+        "price": 3.08,
+        "format": "black",
+        "brand": "mollit"
     },
     {
         "index": 5,
-        "nombre": "Macias",
-        "precio": 3.7,
-        "formato": "black",
-        "marca": "officia"
+        "name": "Macias",
+        "price": 3.7,
+        "format": "black",
+        "brand": "officia"
     },
     {
         "index": 6,
-        "nombre": "Maryanne",
-        "precio": 3.89,
-        "formato": "azure",
-        "marca": "tempor"
+        "name": "Maryanne",
+        "price": 3.89,
+        "format": "azure",
+        "brand": "tempor"
     },
     {
         "index": 7,
-        "nombre": "Ann",
-        "precio": 3.1,
-        "formato": "orange",
-        "marca": "anim"
+        "name": "Ann",
+        "price": 3.1,
+        "format": "orange",
+        "brand": "anim"
     },
     {
         "index": 8,
-        "nombre": "Calhoun",
-        "precio": 3.25,
-        "formato": "azure",
-        "marca": "irure"
+        "name": "Calhoun",
+        "price": 3.25,
+        "format": "azure",
+        "brand": "irure"
     },
     {
         "index": 9,
-        "nombre": "Alisa",
-        "precio": 3.7,
-        "formato": "orange",
-        "marca": "veniam"
+        "name": "Alisa",
+        "price": 3.7,
+        "format": "orange",
+        "brand": "veniam"
     },
     {
         "index": 10,
-        "nombre": "Serena",
-        "precio": 3.13,
-        "formato": "azure",
-        "marca": "irure"
+        "name": "Serena",
+        "price": 3.13,
+        "format": "azure",
+        "brand": "irure"
     },
     {
         "index": 11,
-        "nombre": "Greene",
-        "precio": 3.6,
-        "formato": "azure",
-        "marca": "enim"
+        "name": "Greene",
+        "price": 3.6,
+        "format": "azure",
+        "brand": "enim"
     },
     {
         "index": 12,
-        "nombre": "April",
-        "precio": 3.94,
-        "formato": "black",
-        "marca": "nisi"
+        "name": "April",
+        "price": 3.94,
+        "format": "black",
+        "brand": "nisi"
     },
     {
         "index": 13,
-        "nombre": "Jacqueline",
-        "precio": 3.23,
-        "formato": "orange",
-        "marca": "esse"
+        "name": "Jacqueline",
+        "price": 3.23,
+        "format": "orange",
+        "brand": "esse"
     },
     {
         "index": 14,
-        "nombre": "Patsy",
-        "precio": 3.87,
-        "formato": "black",
-        "marca": "veniam"
+        "name": "Patsy",
+        "price": 3.87,
+        "format": "black",
+        "brand": "veniam"
     },
     {
         "index": 15,
-        "nombre": "Chrystal",
-        "precio": 3.53,
-        "formato": "orange",
-        "marca": "quis"
+        "name": "Chrystal",
+        "price": 3.53,
+        "format": "orange",
+        "brand": "quis"
     },
     {
         "index": 16,
-        "nombre": "Long",
-        "precio": 3.02,
-        "formato": "azure",
-        "marca": "laborum"
+        "name": "Long",
+        "price": 3.02,
+        "format": "azure",
+        "brand": "laborum"
     },
     {
         "index": 17,
-        "nombre": "Fletcher",
-        "precio": 3.97,
-        "formato": "black",
-        "marca": "officia"
+        "name": "Fletcher",
+        "price": 3.97,
+        "format": "black",
+        "brand": "officia"
     },
     {
         "index": 18,
-        "nombre": "Bartlett",
-        "precio": 3.1,
-        "formato": "orange",
-        "marca": "ullamco"
+        "name": "Bartlett",
+        "price": 3.1,
+        "format": "orange",
+        "brand": "ullamco"
     },
     {
         "index": 19,
-        "nombre": "Sandoval",
-        "precio": 3.89,
-        "formato": "azure",
-        "marca": "est"
+        "name": "Sandoval",
+        "price": 3.89,
+        "format": "azure",
+        "brand": "est"
     },
     {
         "index": 20,
-        "nombre": "King",
-        "precio": 3.44,
-        "formato": "azure",
-        "marca": "cupidatat"
+        "name": "King",
+        "price": 3.44,
+        "format": "azure",
+        "brand": "cupidatat"
     },
     {
         "index": 21,
-        "nombre": "Cecile",
-        "precio": 3.64,
-        "formato": "black",
-        "marca": "aliquip"
+        "name": "Cecile",
+        "price": 3.64,
+        "format": "black",
+        "brand": "aliquip"
     },
     {
         "index": 22,
-        "nombre": "Beatriz",
-        "precio": 3.42,
-        "formato": "black",
-        "marca": "sunt"
+        "name": "Beatriz",
+        "price": 3.42,
+        "format": "black",
+        "brand": "sunt"
     },
     {
         "index": 23,
-        "nombre": "Faulkner",
-        "precio": 3.57,
-        "formato": "black",
-        "marca": "ad"
+        "name": "Faulkner",
+        "price": 3.57,
+        "format": "black",
+        "brand": "ad"
     },
     {
         "index": 24,
-        "nombre": "Lea",
-        "precio": 3.7,
-        "formato": "black",
-        "marca": "in"
+        "name": "Lea",
+        "price": 3.7,
+        "format": "black",
+        "brand": "in"
     },
     {
         "index": 25,
-        "nombre": "Lane",
-        "precio": 3.82,
-        "formato": "black",
-        "marca": "veniam"
+        "name": "Lane",
+        "price": 3.82,
+        "format": "black",
+        "brand": "veniam"
     },
     {
         "index": 26,
-        "nombre": "Ruthie",
-        "precio": 3.77,
-        "formato": "orange",
-        "marca": "quis"
+        "name": "Ruthie",
+        "price": 3.77,
+        "format": "orange",
+        "brand": "quis"
     },
     {
         "index": 27,
-        "nombre": "Baldwin",
-        "precio": 3.36,
-        "formato": "orange",
-        "marca": "aliqua"
+        "name": "Baldwin",
+        "price": 3.36,
+        "format": "orange",
+        "brand": "aliqua"
     },
     {
         "index": 28,
-        "nombre": "Mercer",
-        "precio": 3.56,
-        "formato": "black",
-        "marca": "dolore"
+        "name": "Mercer",
+        "price": 3.56,
+        "format": "black",
+        "brand": "dolore"
     },
     {
         "index": 29,
-        "nombre": "Mueller",
-        "precio": 3.71,
-        "formato": "black",
-        "marca": "id"
+        "name": "Mueller",
+        "price": 3.71,
+        "format": "black",
+        "brand": "id"
     },
     {
         "index": 30,
-        "nombre": "Mooney",
-        "precio": 3.2,
-        "formato": "black",
-        "marca": "aliqua"
+        "name": "Mooney",
+        "price": 3.2,
+        "format": "black",
+        "brand": "aliqua"
     },
     {
         "index": 31,
-        "nombre": "Anderson",
-        "precio": 3.45,
-        "formato": "azure",
-        "marca": "proident"
+        "name": "Anderson",
+        "price": 3.45,
+        "format": "azure",
+        "brand": "proident"
     },
     {
         "index": 32,
-        "nombre": "Clark",
-        "precio": 3.97,
-        "formato": "orange",
-        "marca": "adipisicing"
+        "name": "Clark",
+        "price": 3.97,
+        "format": "orange",
+        "brand": "adipisicing"
     },
     {
         "index": 33,
-        "nombre": "Roslyn",
-        "precio": 3.53,
-        "formato": "azure",
-        "marca": "aliqua"
+        "name": "Roslyn",
+        "price": 3.53,
+        "format": "azure",
+        "brand": "aliqua"
     },
     {
         "index": 34,
-        "nombre": "Elisabeth",
-        "precio": 3.11,
-        "formato": "black",
-        "marca": "reprehenderit"
+        "name": "Elisabeth",
+        "price": 3.11,
+        "format": "black",
+        "brand": "reprehenderit"
     },
     {
         "index": 35,
-        "nombre": "Bass",
-        "precio": 3.42,
-        "formato": "orange",
-        "marca": "sunt"
+        "name": "Bass",
+        "price": 3.42,
+        "format": "orange",
+        "brand": "sunt"
     },
     {
         "index": 36,
-        "nombre": "Mariana",
-        "precio": 3.14,
-        "formato": "black",
-        "marca": "minim"
+        "name": "Mariana",
+        "price": 3.14,
+        "format": "black",
+        "brand": "minim"
     },
     {
         "index": 37,
-        "nombre": "Maxine",
-        "precio": 3.74,
-        "formato": "black",
-        "marca": "cupidatat"
+        "name": "Maxine",
+        "price": 3.74,
+        "format": "black",
+        "brand": "cupidatat"
     },
     {
         "index": 38,
-        "nombre": "Natasha",
-        "precio": 3.71,
-        "formato": "azure",
-        "marca": "sunt"
+        "name": "Natasha",
+        "price": 3.71,
+        "format": "azure",
+        "brand": "sunt"
     },
     {
         "index": 39,
-        "nombre": "Sandra",
-        "precio": 3.79,
-        "formato": "black",
-        "marca": "esse"
+        "name": "Sandra",
+        "price": 3.79,
+        "format": "black",
+        "brand": "esse"
     },
     {
         "index": 40,
-        "nombre": "Jeannette",
-        "precio": 3.67,
-        "formato": "black",
-        "marca": "velit"
+        "name": "Jeannette",
+        "price": 3.67,
+        "format": "black",
+        "brand": "velit"
     },
     {
         "index": 41,
-        "nombre": "Atkinson",
-        "precio": 3.48,
-        "formato": "black",
-        "marca": "amet"
+        "name": "Atkinson",
+        "price": 3.48,
+        "format": "black",
+        "brand": "amet"
     },
     {
         "index": 42,
-        "nombre": "Baxter",
-        "precio": 4,
-        "formato": "orange",
-        "marca": "excepteur"
+        "name": "Baxter",
+        "price": 4,
+        "format": "orange",
+        "brand": "excepteur"
     },
     {
         "index": 43,
-        "nombre": "Humphrey",
-        "precio": 3.74,
-        "formato": "azure",
-        "marca": "consectetur"
+        "name": "Humphrey",
+        "price": 3.74,
+        "format": "azure",
+        "brand": "consectetur"
     },
     {
         "index": 44,
-        "nombre": "Lenore",
-        "precio": 3.82,
-        "formato": "azure",
-        "marca": "voluptate"
+        "name": "Lenore",
+        "price": 3.82,
+        "format": "azure",
+        "brand": "voluptate"
     },
     {
         "index": 45,
-        "nombre": "Camille",
-        "precio": 3.86,
-        "formato": "orange",
-        "marca": "duis"
+        "name": "Camille",
+        "price": 3.86,
+        "format": "orange",
+        "brand": "duis"
     },
     {
         "index": 46,
-        "nombre": "Wilda",
-        "precio": 3,
-        "formato": "orange",
-        "marca": "dolor"
+        "name": "Wilda",
+        "price": 3,
+        "format": "orange",
+        "brand": "dolor"
     },
     {
         "index": 47,
-        "nombre": "Sheila",
-        "precio": 3.43,
-        "formato": "orange",
-        "marca": "labore"
+        "name": "Sheila",
+        "price": 3.43,
+        "format": "orange",
+        "brand": "labore"
     },
     {
         "index": 48,
-        "nombre": "Corinne",
-        "precio": 3.49,
-        "formato": "azure",
-        "marca": "ad"
+        "name": "Corinne",
+        "price": 3.49,
+        "format": "azure",
+        "brand": "ad"
     },
     {
         "index": 49,
-        "nombre": "Rodgers",
-        "precio": 3.78,
-        "formato": "azure",
-        "marca": "nisi"
+        "name": "Rodgers",
+        "price": 3.78,
+        "format": "azure",
+        "brand": "nisi"
     },
     {
         "index": 50,
-        "nombre": "Allyson",
-        "precio": 3.71,
-        "formato": "orange",
-        "marca": "quis"
+        "name": "Allyson",
+        "price": 3.71,
+        "format": "orange",
+        "brand": "quis"
     },
     {
         "index": 51,
-        "nombre": "Tessa",
-        "precio": 3.04,
-        "formato": "orange",
-        "marca": "irure"
+        "name": "Tessa",
+        "price": 3.04,
+        "format": "orange",
+        "brand": "irure"
     },
     {
         "index": 52,
-        "nombre": "Autumn",
-        "precio": 3.16,
-        "formato": "azure",
-        "marca": "commodo"
+        "name": "Autumn",
+        "price": 3.16,
+        "format": "azure",
+        "brand": "commodo"
     },
     {
         "index": 53,
-        "nombre": "Buckner",
-        "precio": 3.77,
-        "formato": "orange",
-        "marca": "in"
+        "name": "Buckner",
+        "price": 3.77,
+        "format": "orange",
+        "brand": "in"
     },
     {
         "index": 54,
-        "nombre": "Morin",
-        "precio": 3.27,
-        "formato": "orange",
-        "marca": "quis"
+        "name": "Morin",
+        "price": 3.27,
+        "format": "orange",
+        "brand": "quis"
     },
     {
         "index": 55,
-        "nombre": "Dianne",
-        "precio": 3.39,
-        "formato": "orange",
-        "marca": "in"
+        "name": "Dianne",
+        "price": 3.39,
+        "format": "orange",
+        "brand": "in"
     },
     {
         "index": 56,
-        "nombre": "Morgan",
-        "precio": 3.83,
-        "formato": "azure",
-        "marca": "quis"
+        "name": "Morgan",
+        "price": 3.83,
+        "format": "azure",
+        "brand": "quis"
     },
     {
         "index": 57,
-        "nombre": "Bernadette",
-        "precio": 3.8,
-        "formato": "orange",
-        "marca": "incididunt"
+        "name": "Bernadette",
+        "price": 3.8,
+        "format": "orange",
+        "brand": "incididunt"
     },
     {
         "index": 58,
-        "nombre": "Rosanne",
-        "precio": 3.38,
-        "formato": "azure",
-        "marca": "minim"
+        "name": "Rosanne",
+        "price": 3.38,
+        "format": "azure",
+        "brand": "minim"
     },
     {
         "index": 59,
-        "nombre": "Craig",
-        "precio": 3.48,
-        "formato": "azure",
-        "marca": "minim"
+        "name": "Craig",
+        "price": 3.48,
+        "format": "azure",
+        "brand": "minim"
     },
     {
         "index": 60,
-        "nombre": "Maggie",
-        "precio": 3.84,
-        "formato": "black",
-        "marca": "ipsum"
+        "name": "Maggie",
+        "price": 3.84,
+        "format": "black",
+        "brand": "ipsum"
     },
     {
         "index": 61,
-        "nombre": "Solis",
-        "precio": 3.62,
-        "formato": "black",
-        "marca": "cupidatat"
+        "name": "Solis",
+        "price": 3.62,
+        "format": "black",
+        "brand": "cupidatat"
     },
     {
         "index": 62,
-        "nombre": "Shana",
-        "precio": 3.95,
-        "formato": "orange",
-        "marca": "sit"
+        "name": "Shana",
+        "price": 3.95,
+        "format": "orange",
+        "brand": "sit"
     },
     {
         "index": 63,
-        "nombre": "Wooten",
-        "precio": 3.01,
-        "formato": "azure",
-        "marca": "anim"
+        "name": "Wooten",
+        "price": 3.01,
+        "format": "azure",
+        "brand": "anim"
     },
     {
         "index": 64,
-        "nombre": "Puckett",
-        "precio": 3.79,
-        "formato": "orange",
-        "marca": "commodo"
+        "name": "Puckett",
+        "price": 3.79,
+        "format": "orange",
+        "brand": "commodo"
     },
     {
         "index": 65,
-        "nombre": "Jefferson",
-        "precio": 3.96,
-        "formato": "orange",
-        "marca": "eu"
+        "name": "Jefferson",
+        "price": 3.96,
+        "format": "orange",
+        "brand": "eu"
     },
     {
         "index": 66,
-        "nombre": "Coffey",
-        "precio": 3.99,
-        "formato": "orange",
-        "marca": "irure"
+        "name": "Coffey",
+        "price": 3.99,
+        "format": "orange",
+        "brand": "irure"
     },
     {
         "index": 67,
-        "nombre": "Owen",
-        "precio": 3.08,
-        "formato": "black",
-        "marca": "non"
+        "name": "Owen",
+        "price": 3.08,
+        "format": "black",
+        "brand": "non"
     },
     {
         "index": 68,
-        "nombre": "Ginger",
-        "precio": 3.83,
-        "formato": "black",
-        "marca": "dolor"
+        "name": "Ginger",
+        "price": 3.83,
+        "format": "black",
+        "brand": "dolor"
     },
     {
         "index": 69,
-        "nombre": "Della",
-        "precio": 3.63,
-        "formato": "orange",
-        "marca": "nisi"
+        "name": "Della",
+        "price": 3.63,
+        "format": "orange",
+        "brand": "nisi"
     },
     {
         "index": 70,
-        "nombre": "Frost",
-        "precio": 3.6,
-        "formato": "orange",
-        "marca": "dolore"
+        "name": "Frost",
+        "price": 3.6,
+        "format": "orange",
+        "brand": "dolore"
     },
     {
         "index": 71,
-        "nombre": "Davenport",
-        "precio": 3.63,
-        "formato": "black",
-        "marca": "officia"
+        "name": "Davenport",
+        "price": 3.63,
+        "format": "black",
+        "brand": "officia"
     },
     {
         "index": 72,
-        "nombre": "Rachelle",
-        "precio": 3.56,
-        "formato": "black",
-        "marca": "ea"
+        "name": "Rachelle",
+        "price": 3.56,
+        "format": "black",
+        "brand": "ea"
     },
     {
         "index": 73,
-        "nombre": "Rosalie",
-        "precio": 3.94,
-        "formato": "black",
-        "marca": "eiusmod"
+        "name": "Rosalie",
+        "price": 3.94,
+        "format": "black",
+        "brand": "eiusmod"
     },
     {
         "index": 74,
-        "nombre": "Reed",
-        "precio": 3.6,
-        "formato": "black",
-        "marca": "nostrud"
+        "name": "Reed",
+        "price": 3.6,
+        "format": "black",
+        "brand": "nostrud"
     },
     {
         "index": 75,
-        "nombre": "Frank",
-        "precio": 3.77,
-        "formato": "azure",
-        "marca": "cupidatat"
+        "name": "Frank",
+        "price": 3.77,
+        "format": "azure",
+        "brand": "cupidatat"
     },
     {
         "index": 76,
-        "nombre": "Salazar",
-        "precio": 3.17,
-        "formato": "orange",
-        "marca": "adipisicing"
+        "name": "Salazar",
+        "price": 3.17,
+        "format": "orange",
+        "brand": "adipisicing"
     },
     {
         "index": 77,
-        "nombre": "Vivian",
-        "precio": 3.31,
-        "formato": "black",
-        "marca": "est"
+        "name": "Vivian",
+        "price": 3.31,
+        "format": "black",
+        "brand": "est"
     },
     {
         "index": 78,
-        "nombre": "Lynn",
-        "precio": 3.81,
-        "formato": "azure",
-        "marca": "laboris"
+        "name": "Lynn",
+        "price": 3.81,
+        "format": "azure",
+        "brand": "laboris"
     },
     {
         "index": 79,
-        "nombre": "Moreno",
-        "precio": 3.77,
-        "formato": "black",
-        "marca": "do"
+        "name": "Moreno",
+        "price": 3.77,
+        "format": "black",
+        "brand": "do"
     },
     {
         "index": 80,
-        "nombre": "Joann",
-        "precio": 3.59,
-        "formato": "orange",
-        "marca": "exercitation"
+        "name": "Joann",
+        "price": 3.59,
+        "format": "orange",
+        "brand": "exercitation"
     },
     {
         "index": 81,
-        "nombre": "Erna",
-        "precio": 3.72,
-        "formato": "azure",
-        "marca": "ipsum"
+        "name": "Erna",
+        "price": 3.72,
+        "format": "azure",
+        "brand": "ipsum"
     },
     {
         "index": 82,
-        "nombre": "Wade",
-        "precio": 3.3,
-        "formato": "orange",
-        "marca": "sunt"
+        "name": "Wade",
+        "price": 3.3,
+        "format": "orange",
+        "brand": "sunt"
     },
     {
         "index": 83,
-        "nombre": "Palmer",
-        "precio": 3.56,
-        "formato": "black",
-        "marca": "consequat"
+        "name": "Palmer",
+        "price": 3.56,
+        "format": "black",
+        "brand": "consequat"
     },
     {
         "index": 84,
-        "nombre": "Jodi",
-        "precio": 3.18,
-        "formato": "black",
-        "marca": "dolor"
+        "name": "Jodi",
+        "price": 3.18,
+        "format": "black",
+        "brand": "dolor"
     },
     {
         "index": 85,
-        "nombre": "Kerry",
-        "precio": 3.43,
-        "formato": "azure",
-        "marca": "ullamco"
+        "name": "Kerry",
+        "price": 3.43,
+        "format": "azure",
+        "brand": "ullamco"
     },
     {
         "index": 86,
-        "nombre": "Good",
-        "precio": 3.21,
-        "formato": "black",
-        "marca": "cillum"
+        "name": "Good",
+        "price": 3.21,
+        "format": "black",
+        "brand": "cillum"
     },
     {
         "index": 87,
-        "nombre": "Walters",
-        "precio": 3.95,
-        "formato": "azure",
-        "marca": "ullamco"
+        "name": "Walters",
+        "price": 3.95,
+        "format": "azure",
+        "brand": "ullamco"
     },
     {
         "index": 88,
-        "nombre": "Geneva",
-        "precio": 3.06,
-        "formato": "black",
-        "marca": "non"
+        "name": "Geneva",
+        "price": 3.06,
+        "format": "black",
+        "brand": "non"
     },
     {
         "index": 89,
-        "nombre": "Stout",
-        "precio": 3.07,
-        "formato": "black",
-        "marca": "ut"
+        "name": "Stout",
+        "price": 3.07,
+        "format": "black",
+        "brand": "ut"
     },
     {
         "index": 90,
-        "nombre": "Miller",
-        "precio": 3.97,
-        "formato": "orange",
-        "marca": "pariatur"
+        "name": "Miller",
+        "price": 3.97,
+        "format": "orange",
+        "brand": "pariatur"
     },
     {
         "index": 91,
-        "nombre": "Santiago",
-        "precio": 3.47,
-        "formato": "orange",
-        "marca": "ex"
+        "name": "Santiago",
+        "price": 3.47,
+        "format": "orange",
+        "brand": "ex"
     },
     {
         "index": 92,
-        "nombre": "Chris",
-        "precio": 3.38,
-        "formato": "azure",
-        "marca": "veniam"
+        "name": "Chris",
+        "price": 3.38,
+        "format": "azure",
+        "brand": "veniam"
     },
     {
         "index": 93,
-        "nombre": "Monique",
-        "precio": 3.42,
-        "formato": "black",
-        "marca": "ullamco"
+        "name": "Monique",
+        "price": 3.42,
+        "format": "black",
+        "brand": "ullamco"
     },
     {
         "index": 94,
-        "nombre": "Brigitte",
-        "precio": 3.24,
-        "formato": "orange",
-        "marca": "occaecat"
+        "name": "Brigitte",
+        "price": 3.24,
+        "format": "orange",
+        "brand": "occaecat"
     },
     {
         "index": 95,
-        "nombre": "Wiggins",
-        "precio": 3.16,
-        "formato": "black",
-        "marca": "anim"
+        "name": "Wiggins",
+        "price": 3.16,
+        "format": "black",
+        "brand": "anim"
     },
     {
         "index": 96,
-        "nombre": "Baker",
-        "precio": 3.78,
-        "formato": "orange",
-        "marca": "amet"
+        "name": "Baker",
+        "price": 3.78,
+        "format": "orange",
+        "brand": "amet"
     },
     {
         "index": 97,
-        "nombre": "Gwen",
-        "precio": 3.19,
-        "formato": "black",
-        "marca": "eu"
+        "name": "Gwen",
+        "price": 3.19,
+        "format": "black",
+        "brand": "eu"
     },
     {
         "index": 98,
-        "nombre": "Parks",
-        "precio": 3.27,
-        "formato": "black",
-        "marca": "qui"
+        "name": "Parks",
+        "price": 3.27,
+        "format": "black",
+        "brand": "qui"
     },
     {
         "index": 99,
-        "nombre": "Powell",
-        "precio": 3.3,
-        "formato": "azure",
-        "marca": "eu"
+        "name": "Powell",
+        "price": 3.3,
+        "format": "azure",
+        "brand": "eu"
     }
 ]
